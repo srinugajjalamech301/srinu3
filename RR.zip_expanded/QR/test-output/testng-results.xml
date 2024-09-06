@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-19T14:53:03 IST" name="Default suite" finished-at="2024-08-19T14:58:30 IST" duration-ms="326481">
+    <groups>
+    </groups>
+    <test started-at="2024-08-19T14:53:03 IST" name="Default test" finished-at="2024-08-19T14:58:30 IST" duration-ms="326481">
+      <class name="testscripts.SanityTest3">
+        <test-method signature="clickAllTabs()[pri:0, instance:testscripts.SanityTest3@15aab8c6]" started-at="2024-08-19T14:53:03 IST" name="clickAllTabs" finished-at="2024-08-19T14:58:30 IST" duration-ms="326413" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickAllTabs -->
+      </class> <!-- testscripts.SanityTest3 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
